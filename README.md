@@ -2,5 +2,5 @@
 ### :technologist: Programming languages <br>
 <p align="center" margin="20px">
 <img src="https://www.serendipity.ovh/assets/img/icons/js.png" height="64" width="64" />
- ![Image alt](https://luxe-host.ru/wp-content/uploads/3/9/4/394bd6373620272a2f9cce2fc3d77b5d.png)
+ <img src="https://designshack.net/wp-content/uploads/html5-368x246.png" height="64" width="64"/>
 </p>
