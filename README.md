@@ -16,4 +16,4 @@
 <p align="center">
  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="64" width="64"/>
 </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=Octavian-imp)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&theme=radical)
