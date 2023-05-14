@@ -19,20 +19,20 @@
  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="64" width="64"/>
 </p>
 
-### Activity <br>
-<p align="center">
- <picture>
- <source 
-   srcset="https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&theme=dark&text_color=ffffff&icon_color=00FFFF&hide_title=true&hide_border=true&include_all_commits=true"
-   media="(prefers-color-scheme: dark)"
- />
- <source
-   srcset="https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&text_color=000000&icon_color=00FFFF&hide_title=true&hide_border=true&include_all_commits=true"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
- />
- <img src="https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&text_colorffffffF&icon_color=00FFFF&hide_title=true&hide_border=true&include_all_commits=true" />
- </picture>
-</p>
+\\### Activity <br>
+\\<p align="center">
+\\ <picture>
+\\ <source 
+ \\  srcset="https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&theme=dark&text_color=ffffff&icon_color=00FFFF&hide_title=true&hide_border=true&include_all_commits=true"
+ \\  media="(prefers-color-scheme: dark)"
+ \\/>
+\\ <source
+\\   srcset="https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&text_color=000000&icon_color=00FFFF&hide_title=true&hide_border=true&include_all_commits=true"
+\\   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+ \\/>
+\\ <img src="https://github-readme-stats.vercel.app/api?username=Octavian-imp&show_icons=true&text_colorffffffF&icon_color=00FFFF&hide_title=true&hide_border=true&include_all_commits=true" />
+ \\</picture>
+\\</p>
 
 ### Most Usage Languages <br>
 <p align="center">
