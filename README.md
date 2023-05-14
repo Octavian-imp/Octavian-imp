@@ -11,6 +11,7 @@
  <img src="https://cdn.simpleicons.org/react/61DAFB" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="64" width="64"/> 
+ <img src="https://cdn.simpleicons.org/express/000000" height="64" width="64"/> 
 </p>
 
 ### Design <br>
