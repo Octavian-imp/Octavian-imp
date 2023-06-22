@@ -8,7 +8,9 @@
  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="64" width="64" />
  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="64" width="64" />
  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="64" width="64"/> 
+ <img src="https://cdn.simpleicons.org/redux/764ABC" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/react/61DAFB" height="64" width="64"/> 
+ <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/express/000000" height="64" width="64"/> 
