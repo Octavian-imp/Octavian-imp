@@ -1,5 +1,4 @@
-### Hi, I'm Frontend-Developer 👋
-### :technologist: Web-programming Technologies <br>
+### :technologist: Languages & Frameworks <br>
 <p align="center">
  <img src="https://cdn.simpleicons.org/html5/E34F26" height="64" width="64"/> 
  <img src="https://cdn.simpleicons.org/css3/1572B6" height="64" width="64"/> 
